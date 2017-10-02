@@ -23,7 +23,7 @@
 <body>
 	<div class="w3-banner-main" >
 		<div class="center-container" >
-			<h1 class="header-w3ls">Dashboard Aplikasi Layanan Fungsi Hukum<br>KBRI Kuala Lumpur</h1>
+			<h1 class="header-w3ls" style="font-family: helvetica;">Dashboard<br> Aplikasi Layanan Fungsi Hukum<br>KBRI Kuala Lumpur</h1>
 			
 			<div class="content-top">
 				<div class="content-w3ls">
